@@ -45,7 +45,7 @@ header{
     outline: none; 
     height: 40px;
     border-radius: 10px;
-  }
+ }
   
 .search i {
     margin-left: 5px; 
@@ -53,4 +53,17 @@ header{
     height: 40px;
     border-radius: 10px;
     align-items: center;
+}
+
+article{
+    width: 70%;
+    margin: auto;
+}
+
+.art_left{
+    width: 30%;
+}
+
+.art_right{
+    width: 70%;
 }
